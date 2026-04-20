@@ -9,5 +9,6 @@ Code for the paper:
 - [ ] Data preprocessing
 - [ ] Training pipeline
 - [ ] Inference scripts
+- [x] Supplementary material (already uploaded)
 
 Expected release: before conference.
