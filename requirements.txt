@@ -1,0 +1,13 @@
+torch>=2.9.0
+transformers>=4.49.0
+peft>=0.17.0
+accelerate>=1.11.0
+datasets>=4.4.0
+bitsandbytes>=0.48.0
+fire>=0.7.0
+openai>=2.3.0
+tqdm>=4.67.0
+numpy>=2.2.0
+safetensors>=0.6.0
+sentencepiece>=0.2.0
+tokenizers>=0.21.0

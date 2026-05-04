@@ -1,0 +1,22 @@
+# Data (downloaded separately)
+data/*.jsonl
+data/split_test/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Large files
+# PDFs except the paper
+*.log
+checkpoint-*/
+release/
+venv/
+.idea/
