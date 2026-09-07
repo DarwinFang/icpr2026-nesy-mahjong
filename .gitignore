@@ -1,0 +1,24 @@
+# Data (downloaded separately)
+data/*.jsonl
+data/split_test/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Generated experiment artifacts
+Paper.pdf
+*.log
+checkpoint-*/
+models/
+results/
+release/
+venv/
